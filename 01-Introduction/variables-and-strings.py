@@ -57,4 +57,4 @@ print(country.rstrip())                 # Remove spaces at the end of the string
 print(country.find('o'))                # Find the position of a character in a string
 print(country.index('o'))               # Find the position of a character in a string
 print(eval('2 + 2'))                    # Evaluate an expression
-exec('print("Hello Dev")')                  # Execute a string as Python code
+exec('print("Hello Dev")')              # Execute a string as Python code
